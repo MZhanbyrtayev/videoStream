@@ -1,0 +1,11 @@
+C:\Users\madiz\source\repos\FrameCaptureApp\FrameCaptureApp\bin\Debug\FrameCaptureApp.exe.config
+C:\Users\madiz\source\repos\FrameCaptureApp\FrameCaptureApp\bin\Debug\FrameCaptureApp.exe
+C:\Users\madiz\source\repos\FrameCaptureApp\FrameCaptureApp\bin\Debug\FrameCaptureApp.pdb
+C:\Users\madiz\source\repos\FrameCaptureApp\FrameCaptureApp\bin\Debug\OzekiSDK.dll
+C:\Users\madiz\source\repos\FrameCaptureApp\FrameCaptureApp\obj\Debug\FrameCaptureApp.Form1.resources
+C:\Users\madiz\source\repos\FrameCaptureApp\FrameCaptureApp\obj\Debug\FrameCaptureApp.Properties.Resources.resources
+C:\Users\madiz\source\repos\FrameCaptureApp\FrameCaptureApp\obj\Debug\FrameCaptureApp.csproj.GenerateResource.cache
+C:\Users\madiz\source\repos\FrameCaptureApp\FrameCaptureApp\obj\Debug\FrameCaptureApp.csproj.CoreCompileInputs.cache
+C:\Users\madiz\source\repos\FrameCaptureApp\FrameCaptureApp\obj\Debug\FrameCaptureApp.csproj.CopyComplete
+C:\Users\madiz\source\repos\FrameCaptureApp\FrameCaptureApp\obj\Debug\FrameCaptureApp.exe
+C:\Users\madiz\source\repos\FrameCaptureApp\FrameCaptureApp\obj\Debug\FrameCaptureApp.pdb

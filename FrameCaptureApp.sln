@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameCaptureApp", "FrameCaptureApp\FrameCaptureApp.csproj", "{833A3691-4E2D-4D2C-B254-05C18982D3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{833A3691-4E2D-4D2C-B254-05C18982D3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833A3691-4E2D-4D2C-B254-05C18982D3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833A3691-4E2D-4D2C-B254-05C18982D3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833A3691-4E2D-4D2C-B254-05C18982D3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F02BBC24-4E77-45BD-A4D3-31962F955C01}
+	EndGlobalSection
+EndGlobal
